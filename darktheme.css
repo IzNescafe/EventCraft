@@ -1,0 +1,46 @@
+/* Dark Theme Styles */
+.dark-theme {
+    background-color: #333;
+    color: #f9f9f9;
+}
+/* 
+.dark-theme .header {
+    background: rgba(56, 31, 114, 0.8) transparent;
+} */
+
+/* .dark-theme .navbar a{}
+    color: rgb(78, 46, 129);
+} */
+
+.dark-theme .login__form {
+    background-color: hsla(0, 0%, 0%, 0.8);
+    border-color: hsla(0, 0%, 100%, 0.5);
+}
+
+.dark-theme .login__input {
+    background: none;
+    color: #f9f9f9;
+}
+
+.dark-theme .login__input::placeholder {
+    color: #f9f9f9;
+}
+
+.dark-theme .login__button {
+    background-color: #555;
+    color: #f9f9f9;
+}
+
+.dark-theme .login__forgot, .dark-theme .login__register a {
+    color: #f9f9f9;
+}
+
+.dark-theme .dropdown-content {
+    background-color: #444;
+    color: #f9f9f9;
+}
+
+/*
+.dark-theme .dropdown-content a:hover {
+    background-color: #555;
+} */
